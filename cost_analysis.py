@@ -268,5 +268,3 @@ plt.savefig(chart_file, dpi=150)
 
 print(f"\nSaved hourly cost data to: {output_file.name}")
 print(f"Saved cost chart to: {chart_file.name}")
-
-plt.show()
